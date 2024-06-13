@@ -97,29 +97,6 @@ h1 {
     background: #101935;
 }
 
-.roomrate, .roomrate-night, .roomrate-price {
-    position: absolute;
-    font-weight: bold;
-    padding-left: 10px;
-    font-size: 20px;
-    color: rgb(235, 229, 229);
-}
-
-.roomrate {
-    top: 50px;
-    left: 20px;
-}
-
-.roomrate-night {
-    top: 60px;
-    left: 100px;
-}
-
-.roomrate-price {
-    top: 50px;
-    left: 45px;
-}
-
 .privatewing {
     margin-left: auto;
     margin-right: auto;
